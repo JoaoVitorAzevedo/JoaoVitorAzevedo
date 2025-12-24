@@ -112,4 +112,22 @@ Fora dos códigos, sou corredor (foco em 5km e meia-maratona) e entusiasta de ne
 
 ### Estatísticas
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JoaoVitorAzevedo&theme=dark)](https://git.io/streak-stats)
+<div align="left">
+  <img 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api?username=JoaoVitorAzevedo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+  <img 
+      alt="Top Langs" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorAzevedo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+  />
+</div>
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JoaoVitorAzevedo&theme=tokyonight&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=JoaoVitorAzevedo&theme=tokyonight&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
