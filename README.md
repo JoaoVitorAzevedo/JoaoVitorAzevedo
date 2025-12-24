@@ -108,7 +108,6 @@ Fora dos códigos, sou corredor (foco em 5km e meia-maratona) e entusiasta de ne
 />
 
 <br/>
-<br/>
 
 ### Estatísticas
 
@@ -129,5 +128,3 @@ Fora dos códigos, sou corredor (foco em 5km e meia-maratona) e entusiasta de ne
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JoaoVitorAzevedo&theme=tokyonight&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=JoaoVitorAzevedo&theme=tokyonight&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
