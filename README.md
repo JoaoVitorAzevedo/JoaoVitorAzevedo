@@ -129,3 +129,6 @@ Fora dos códigos, sou corredor (foco em 5km e meia-maratona) e entusiasta de ne
   />
 
 </p>
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JoaoVitorAzevedo&theme=dark)](https://git.io/streak-stats)
